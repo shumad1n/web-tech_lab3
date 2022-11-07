@@ -1,0 +1,40 @@
+.abzats-one {
+    color: royalblue;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+    .abzats-one:hover {
+        color: deepskyblue;
+    }
+
+.abzats-two {
+    color: dodgerblue;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 2px dashed;
+    width: max-content;
+}
+
+.abzats-three {
+    color: deepskyblue;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 1px 1px 1px violet, 2px 2px 1px violet;
+}
+
+.abzats-block {
+    color: red;
+    font-size: xx-large;
+    font-family: Bahnschrift;
+    font-style: italic;
+}
+
+    .abzats-block > div {
+        color: green;
+        font-size: x-large;
+        font-family: 'Comic Sans MS';
+        font-style: normal;
+        font-weight: bold;
+        text-decoration: underline dotted;
+    }
